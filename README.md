@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <img src="Logo-persona_Fondo_blanco.png" alt="Logo_personal">
+</p>
+<h1 align="center">Hi there 😁💻🧑‍💻
+I´m Yadlif Hernandez </h1>
+  
+<p align="center">
+  <a href="https://https://www.linkedin.com/in/yadlifmhernandez-zapata//">
+    <img src="boton_linkedin.jpeg" alt="Botón LinkedIn">
+  </a>
+  <a href="https://platzi.com/p/yadkomateo//">
+    <img src="boton_platzi.jpeg" alt="Botón Platzi">
+  </a>
+</p>
 
-<!--
-**Yadkomateo/Yadkomateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A little bit about me

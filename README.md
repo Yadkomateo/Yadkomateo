@@ -7,7 +7,7 @@ I´m Yadlif Hernandez </h1>
   <a href="https:///www.linkedin.com/in/yadlifmhernandez-zapata///">
     <img src="logo_linkedin.jpg"  alt="Botón LinkedIn">
   </a>
-  <a href="https://platzi.com/p/yadkomateo//">
+  <a href="https://platzi.com/p/yadkomateo///">
     <img src="boton_platzi.png" alt="Botón Platzi">
   </a>
 </p>
